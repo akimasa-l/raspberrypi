@@ -3,6 +3,8 @@
 #I wrote the script in the "post-recieve" in below.
 """
 echo "start pushing"
-echo $0
+cd ~/forgit/hooks
 hooks.sh
+cd ~/forgit
+git push origin master
 """
