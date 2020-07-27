@@ -5,5 +5,6 @@
 echo "start pushing"
 ~/forgit/hooks/hooks.sh
 git push origin master
-~                        
 """
+#And, you should make sure that the two files(hooks.sh,post-receive)
+#has Execution authority so that I can exec the command in two files.
