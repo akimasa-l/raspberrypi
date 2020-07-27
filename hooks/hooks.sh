@@ -1,3 +1,3 @@
-python3 ./hooks.py
+python3 hooks.py
 cd ..
 git push origin master
