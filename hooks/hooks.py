@@ -3,6 +3,6 @@
 #I wrote the script in the "post-recieve" in below.
 """
 echo "start pushing"
-cd ../../../hooks
+echo $0
 hooks.sh
 """
