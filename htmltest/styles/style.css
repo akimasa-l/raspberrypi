@@ -1,0 +1,22 @@
+p,li {
+    color: aquamarine;
+}
+a{
+    border: 1px solid black;
+}
+a:hover{
+    border: 10px solid rgb(0, 255, 21);
+    font-family: 'Quicksand', sans-serif;
+    font-size: large;
+}
+html{
+    font-family: 'Quicksand', sans-serif;
+    font-size: medium;
+    background-color: bisque;
+}
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: chartreuse;
+    
+}
