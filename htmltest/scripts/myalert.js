@@ -9,5 +9,5 @@ function changeImage(){
         img.setAttribute("src","images/unnamed.png")
     }
 }
-img.onclick=changeImage;
-document.querySelector('p').onclick = myalert()
+img.onclick=function(){ changeImage;};
+document.querySelector('p').onclick = function(){myalert();};

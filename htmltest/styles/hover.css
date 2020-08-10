@@ -1,0 +1,27 @@
+
+@font-face{
+    font-family: "Google Sans";
+    src:url("product-sans/Product Sans Regular.ttf");
+}
+
+h1,p{
+    font-family: "Google Sans";
+    /* font-size: medium; */
+}
+h1{
+    font-size: large;
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+
+     background-color: chartreuse;
+    border: 5px solid black; 
+}
+html{
+    font-family: 'Quicksand', sans-serif;
+    font-size: larger;
+    background-color: bisque;
+}
